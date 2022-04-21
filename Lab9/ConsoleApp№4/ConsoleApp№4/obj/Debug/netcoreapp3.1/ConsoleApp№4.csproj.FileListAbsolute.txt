@@ -1,0 +1,14 @@
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\bin\Debug\netcoreapp3.1\ConsoleApp№4.exe
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\bin\Debug\netcoreapp3.1\ConsoleApp№4.deps.json
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\bin\Debug\netcoreapp3.1\ConsoleApp№4.runtimeconfig.json
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\bin\Debug\netcoreapp3.1\ConsoleApp№4.runtimeconfig.dev.json
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\bin\Debug\netcoreapp3.1\ConsoleApp№4.dll
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\bin\Debug\netcoreapp3.1\ConsoleApp№4.pdb
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\obj\Debug\netcoreapp3.1\ConsoleApp№4.csproj.AssemblyReference.cache
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\obj\Debug\netcoreapp3.1\ConsoleApp№4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\obj\Debug\netcoreapp3.1\ConsoleApp№4.AssemblyInfoInputs.cache
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\obj\Debug\netcoreapp3.1\ConsoleApp№4.AssemblyInfo.cs
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\obj\Debug\netcoreapp3.1\ConsoleApp№4.csproj.CoreCompileInputs.cache
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\obj\Debug\netcoreapp3.1\ConsoleApp№4.dll
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\obj\Debug\netcoreapp3.1\ConsoleApp№4.pdb
+C:\Users\intre\source\repos\ConsoleApp№4\ConsoleApp№4\obj\Debug\netcoreapp3.1\ConsoleApp№4.genruntimeconfig.cache

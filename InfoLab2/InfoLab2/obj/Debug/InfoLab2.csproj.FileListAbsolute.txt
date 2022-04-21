@@ -1,0 +1,11 @@
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\obj\Debug\InfoLab2.csproj.AssemblyReference.cache
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\obj\Debug\InfoLab2.Form1.resources
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\obj\Debug\InfoLab2.Properties.Resources.resources
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\obj\Debug\InfoLab2.csproj.GenerateResource.cache
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\obj\Debug\InfoLab2.csproj.CoreCompileInputs.cache
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\bin\Debug\InfoLab2.exe.config
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\bin\Debug\InfoLab2.exe
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\bin\Debug\InfoLab2.pdb
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\obj\Debug\InfoLab2.exe
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\obj\Debug\InfoLab2.pdb
+C:\Users\intre\source\repos\InfoLab2\InfoLab2\obj\Debug\InfoLab2.Resource1.resources
